@@ -4,7 +4,7 @@
  - Install Docker Desktop
 
 ## What will you have?
- - PHP 8.2
+ - PHP 8.4
  - MySql 8
  - Nginx Web Server
  - phpMyAdmin 5
